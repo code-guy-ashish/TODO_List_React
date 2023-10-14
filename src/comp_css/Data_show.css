@@ -1,0 +1,21 @@
+.show_data_outer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+.show_data_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    font-size: 25px;
+    height: 60px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+Button{
+    height: 90%;
+}
